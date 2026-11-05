@@ -9,3 +9,9 @@ Add, subtract, multiply and divide two numbers; display the result.
 Run: ./run.sh
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+
+## Tests Done
+Test using ./check.sh tests multiply, add, subtract and divide with specific
+examples and tests uneven division.
+All passed with expected results.
+
