@@ -1,12 +1,12 @@
 # SCCMM4910 lab project - a four-operation calculator
 
-def add(a, b):
+def add (a, b):
 	return a + b
-def subtract(a, b):
+def subtract (a, b):
 	return a - b
-def multiply(a, b):
+def multiply (a, b):
 	return a * b
-def divide(a, b):
+def divide (a, b):
 	return a / b
 
 def CircleArea(r):
